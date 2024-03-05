@@ -1,0 +1,611 @@
+body{
+    background-color:#FFEBEC;
+    color: #FB7D64;
+
+}
+.heada{
+    background-color:#FFFAFA;
+    font-size: x-large;
+}
+a:hover, a:visited, a:link, a:active
+{
+    text-decoration: navajowhite;
+
+}
+header{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.log{
+    width: 50px;
+    height: 30px;
+    color:#FB7D64;
+    border: #FFEBEC;
+    border-radius: 3px;
+    background-color: white;
+}
+.get{
+    width: 100px;
+    height: 33px;
+    background-color: #FB7D64;
+    color: white;
+    border: #FB7D64;
+    border-radius: 3px;
+
+}
+ul{
+    display: flex;
+    justify-items: flex-end;
+}
+link{
+    font-family: "inter", sans-serif;
+    padding: 80px;
+
+}
+li {
+    list-style: none;
+    padding: 0px 12px 10px 8px;
+    font-family: "inter", sans-serif;
+
+}
+.send{
+    /* font-family: "Soin Sans Neue", sans-serif; */
+    /* font-weight: 900px; */
+    font-family: Soin Sans Neue;
+    font-size: 20px;
+    font-style: italic;
+    line-height: 10px;
+}
+.sed{
+    display: none;
+}
+.now{
+    line-height: 5px;
+    font-family: "inter", sans-serif;
+    padding-top: 1px;
+}
+.sending{
+    margin-left: 100px;
+    margin-top: 100px;
+}
+.try{
+    margin-top: 55px;
+    display: flex;
+    justify-content: space-between;
+}
+.sta1{
+    display: none;
+}
+.our{
+    margin-left: 120px;
+}
+.cal{
+    border: none;
+    background-size: 0px;
+    background-color:#FFEBEC;
+}
+#dig{
+    display: flex;
+    justify-content: space-around;
+}
+.dag{
+    margin-right: 70px;
+    margin-top: 80px;
+}
+.dan{
+    display: none;
+}
+.user{
+    color: black;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 40px;
+}
+.wrapper-main{
+    width: 1280px;
+    margin: 0 auto;
+}
+.use{
+    line-height: 0px;
+    font-size: smaller;
+    margin-right: 50px;
+}
+.con{
+    display: flex;
+    justify-content: space-between;
+
+}
+.act{
+    background-color: white;
+    border-radius: 20px;
+    color: #FB7D64;
+    margin-right: 10px;
+    margin-top: 3px;
+    padding-top: 7px;
+    padding-left: 10px;
+    padding-right: 10px;
+    width: 15px;
+    height: 25px;
+    align-content: center;
+}
+.veri{
+    text-align: center;
+    color:#CCB8B8;
+}
+.pic{
+    display: flex;
+    justify-content: space-around;
+}
+.visa{
+    margin-left: 500px;
+}
+.cad{
+    margin-right: 500px;
+    margin-top: 30px;
+    color: #CCB8B8;
+}
+.exchange{
+    background-color: #FB7D64;
+    height: 380px;
+    width: 930px;
+    margin-left: 170px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 70px;
+}
+.nev{
+    margin-left: 70px;
+}
+.exchan{
+    background-color: white;
+    height: 230px;
+    width: 450px;
+    margin-right: 50px;
+    margin-top: 30px;
+    border-radius: 5px;
+    line-height: 5px;
+    font-size: x-small;
+}
+.hom{
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+    padding-top: 20px;
+}
+.hom1{
+    padding-top: 30px;
+    line-height: 10px;
+    margin-top: 40px;
+}
+.hom1 h1{
+    font-family: Soin Sans Neue;
+    font-style: italic;
+}
+.easy{
+    line-height: 5px;
+    margin-top: 50px;
+}
+.ex{
+    background-color: black;
+    margin-top: 50px;
+    height: 50px;
+    border-radius: 7px;
+    text-align: center;
+    color: white;
+    padding: 3px;
+    font-size: large;
+}
+.nige{
+    width: 40px;
+    margin-right: 50px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+.sen{
+    margin-left: 50px;
+}
+.nige1{
+    width: 40px;
+    margin-right: 50px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-bottom: 25px;
+
+}
+.sen1{
+   margin-left: 50px;
+   margin-bottom: 10px;
+}
+.ang{
+    color: black;
+}
+.rate{
+    margin-left: 50px;
+}
+.daj{
+    margin-left: 180px;
+    margin-top: 100px;
+    padding-bottom: 50px;
+    
+}
+.daga{
+    display: flex;
+    justify-content: space-between;
+}
+.abo{
+    margin-top: 130px;
+    line-height: 5px;
+
+}
+.abot{
+    margin-right: 230px;
+    height: 185px;
+    width: 450px;
+    margin-top: 50px;
+}
+.demo{
+    display: flex;
+    align-items: center;
+    margin-top: 30px;
+}
+.mot{
+    color: black;
+    margin-left: 20px;
+    /* padding-top: 30px; */
+}
+.fea{
+    background-color:#FFFAFA;
+    display: flex;
+    justify-content: space-between;
+    
+}
+.tur{
+    margin-left: 180px;
+    font-size: larger;
+    margin-top: 50px;
+}
+.cir{
+    background-color: #FFEBEC;
+    border-radius: 7px;
+    width: 320px;
+    margin-left: 180px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.bes1{
+    padding-right: 50px;
+    color:#2E2D2D;
+    line-height: 5px;
+    font-size: small;
+}
+.fac{
+    margin-left: 10px;
+}
+.cir1{
+    background-color: #FFEBEC;
+    width: 300px;
+    margin-left: 300px;
+    border-radius: 7px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+}
+.fac1{
+    margin-left: 10px;
+}
+.bes{
+    font-size: small;
+    line-height: 5px;
+    padding-right: 30px;
+    color:#2E2D2D;
+}
+.cir2{
+    background-color: #FFEBEC;
+    border-radius: 7px;
+    width: 325px;
+    margin-left: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.fac2{
+    margin-left: 10px;
+}
+.bes2{
+    line-height: 5px;
+    padding-right: 50px;
+    color:#2E2D2D;
+    font-size: smaller;
+}
+.imeg{
+    margin-right: 150px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.lab{
+    margin-left: 300px;
+    margin-top: 70px;
+    font-size: smaller;
+    color: #2E2D2D;
+}
+.pres{
+    text-align: center;
+    line-height: 10px;
+    margin-top: 120px;
+    margin-bottom: 50px;
+    font-family: Soin Sans Neue;
+    font-style: italic;
+
+}
+.abo h2{
+    font-family: Soin Sans Neue;
+    font-style: italic;
+}
+.tur h3{
+    font-family: Soin Sans Neue;
+    font-style: italic;
+}
+.prov{
+    margin-left: 150px;
+    display: flex;
+    justify-content: space-around;
+    margin-right: 300px;
+}
+.the{
+    font-size: x-small;
+    color: #2E2D2D;
+    line-height: 5px;
+}
+.prov1{
+    margin-left: 250px;
+    display: flex;
+    justify-content: space-around;
+    margin-right: 230px;
+}
+.the{
+    font-size: x-small;
+    color: #2E2D2D;
+    line-height: 5px;
+}
+.prov2{
+    margin-left: 150px;
+    display: flex;
+    justify-content: space-around;
+    margin-right: 390px;
+}
+.the{
+    font-size: x-small;
+    color: #2E2D2D;
+    line-height: 5px;
+}
+.prov3{
+    margin-left: 250px;
+    display: flex;
+    justify-content: space-around;
+    margin-right: 230px;
+}
+.the{
+    font-size: x-small;
+    color: #2E2D2D;
+    line-height: 1px;
+}
+.emo{
+    margin-top: 100px;
+    height: 150px;
+}
+.card{
+    display: none;
+}
+.emoji{
+    display: flex;
+    justify-content: space-between;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    margin-top: 70px;
+}
+.container1{
+    margin-top: 70px;
+
+}
+.peg{
+    display: flex;
+    align-content: center;
+    justify-content: space-evenly;
+    padding-right: 155px;
+}
+.fote{
+    background-color: #FB7D64;
+    margin-top: 100px;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.fater{
+    display: flex;
+    align-items: center;
+}
+.cop{
+    margin-right: 10px;
+}
+.sm-nav{
+    display:none !important;
+}
+@media only screen and (max-width: 600px) {
+    .sm-nav{
+        display:inline-block !important;
+    }
+    .lg-nav{
+        display: none !important;
+    }
+    .wrapper-main{
+        width: 100%;
+    }
+    #dig{
+        display: inline;
+        margin-right: 50px;
+    }
+    .try{
+        display: none;
+    }
+    .sta1{
+        display: block;
+        margin-block: 30px;
+    }
+    .get{
+        margin-bottom: 30px;
+        font-size: medium;
+    }
+    .use{
+        margin-right: 100px;
+    }
+    .cal{
+        font-size: medium;
+    }
+    .dag{
+        display: none;
+    }
+    .dan{
+        display: block;
+        margin-left: 100px;
+        margin-top: 50px;
+    }
+    .exchange{
+        display: inline-block;
+        width: 430px;
+        height: 580px;
+        padding-left: 2px;
+        margin-left: 60px;
+    }
+    .exchan{
+        /* margin-left: 5px; */
+        width: 400px;
+    }
+    .hom1{
+        margin-top: 0px;
+        font-size: larger;
+    }
+    .nev{
+        margin-left: 5%;
+    }
+    .exchan{
+        margin-left: 15px;
+    }
+    .daga{
+        display: block;
+    }
+    .daj{
+        margin-left: 95px;
+        margin-top: 40px;
+    }
+    .abo{
+        margin-left: 90px;
+        margin-top: 50px;
+        font-size: small;
+        margin-bottom: 20px;
+        background-color: none;
+    }
+    .fea{
+        display: block;
+    }
+    .imeg{
+        margin-left: 60px;
+        padding-bottom: 40px;
+    }
+    .feat{
+        margin-left: 0px;
+    }
+    .cir{
+        margin-left: 20px;
+    }
+    .cir1{
+        margin-left: 100px;
+    }
+    .cir2{
+        margin-left: 100px;
+    }
+    .tur{
+        padding-top: 20px;
+        margin-left: 30px;
+    }
+    .lab{
+        margin-left: 150px;
+    }
+    .emoji{
+        display: block;
+    }
+    .fote{
+        display: block;
+        text-align: center;
+        padding-top: 2px;
+    }
+    .fater{
+        margin-left: 150px;
+    }
+    .prov{
+        margin-left: 5px;
+    }
+    .prov1{
+        margin-left: 10px;
+    }
+    .prov2{
+        margin-left: 10px;
+    }
+    .prov3{
+        margin-left: 10px;
+    }
+    .emo{
+        display: none;
+    }
+    .peg{
+        margin-left: 130px;
+    }
+    .the{
+        padding-left: 130px;
+    }
+    .demo{
+        display: none;
+    }
+    .card{
+        display: block;
+        font-size: small;
+        line-height: 15px;
+        color: black;
+        width: 350px;
+        margin-left: 80px;
+    }
+    .provi{
+        display: flex;
+        align-items: center;
+        gap: 10px;
+    }
+    .smi{
+        margin-bottom: 50px;
+    }
+    .send{
+        display: none;
+    }
+    .sed{
+        display: block;
+        line-height: 10px;
+        font-size: larger;
+        font-family: Soin Sans Neue ;
+        font-style: italic;
+    }
+    .sending{
+        margin-top: 50px;
+        margin-left: 120px;
+    }
+    .pres{
+        font-family: Soin Sans Neue ;
+    }
+}
